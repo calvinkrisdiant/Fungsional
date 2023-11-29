@@ -1,4 +1,4 @@
-'''
+
 #PERCOBAAN 1
 import matplotlib.pyplot as plt
 
@@ -7,8 +7,7 @@ ypoints = [3, 10]
 
 plt.plot(xpoints, ypoints)
 plt.show()
-'''
-'''
+
 #PERCOBAAN 2
 import matplotlib.pyplot as plt
 import numpy as np
@@ -24,8 +23,7 @@ plt.xlabel('Nilai X')
 plt.ylabel('Nilai Y')
 plt.title('Grafik Linier')
 plt.show()
-'''
-'''
+
 #PERCOBAAN 3
 import matplotlib.pyplot as plt
 import numpy as np
@@ -48,9 +46,9 @@ plt.ylabel('Nilai y')
 plt.legend()
 
 plt.show()
-'''
 
-'''
+
+
 #PERCOBAAN 4
 import matplotlib.pyplot as plt
 import numpy as np
@@ -73,7 +71,9 @@ plt.ylabel('Nilai Y')
 plt.legend()
 
 plt.show()
-'''
+
+
+#PERCOBAAN 5
 
 import matplotlib.pyplot as plt
 import numpy as np
